@@ -1,16 +1,32 @@
-# React + Vite
+# 💼 Dipan Sahu – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! This project showcases my skills, projects, and journey as a Full Stack Developer.
 
-Currently, two official plugins are available:
+## 🚀 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Hi, I'm **Dipan Sahu**, a B.Tech Information Technology student passionate about building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into real-world solutions using the MERN stack and continuously expanding my knowledge of full-stack development.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🎨 Modern and responsive UI
+* 🌙 Clean and minimal design
+* ⚡ Smooth animations and typing effects
+* 👨‍💻 About Me section
+* 🛠️ Skills showcase
+* 📂 Featured projects
+* 📬 Contact section
+* 📱 Mobile-friendly layout
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Tailwind CSS
+* JavaScript (ES6+)
+* React Icons
+* Vite
+
+## 📌 Goals
+
+This portfolio reflects my learning journey, technical skills, and projects. I'm always exploring new technologies and striving to build scalable, efficient, and impactful web applications.
+
+Thank you for visiting my portfolio! Feel free to explore my projects and connect with me.
